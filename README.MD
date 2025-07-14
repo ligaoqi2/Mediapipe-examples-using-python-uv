@@ -4,6 +4,7 @@
 
 ```
 python 3.9
+git clone https://github.com/ligaoqi2/Mediapipe-examples-using-python-uv.git
 uv sync
 uv pip install tensorflow
 ```
