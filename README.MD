@@ -4,8 +4,7 @@
 
 ```
 python 3.9
-uv add mediapipe
-uv add opencv-python
+uv sync
 uv pip install tensorflow
 ```
 
